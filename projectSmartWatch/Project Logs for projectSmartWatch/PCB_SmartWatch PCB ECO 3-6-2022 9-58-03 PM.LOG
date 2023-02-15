@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=+VBAT Pin=R1-2
+Change Component Description : Designator=R1 Old Description=???? 100O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 100O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R2 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R3 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R4 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R6 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R7 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R8 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R9 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R10 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R11 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R12 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Added Component: Designator=SW3(CUS-12B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Actuator Length"; Value = "1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "Nylon,Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/2889/cus-2889431.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/2889/cus-2889431.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/2889/cus-2889432.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/2889/cus-2889432.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/2889/cus-2889433.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/2889/cus-2889433.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Style"; Value = "Non-Shorting"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "10000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nidec Copal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CUS-12TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "204gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1 = 0.70000, 10 = 0.67600, 25 = 0.65040, 100 = 0.56450, 250 = 0.51504, 500 = 0.47864, 1000 = 0.42921 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "CUS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "30577"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "563-1102-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "4V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+VBAT Pin=SW3-3
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Change Net Color : Old Net Color=Red New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 0, 180) New Net Color=Default
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=SW3-2
+Added Net: Name=NetR1_2
+Added Member To Class: ClassName=SheetPower Member=Component SW3 CUS-12TB

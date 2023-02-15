@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=SheetMain.SchDoc
+Record=SheetSymbol|SourceDocument=SheetMain.SchDoc|Designator=U_SheetMCU|SchDesignator=U_SheetMCU|FileName=SheetMCU.SchDoc|SymbolType=Normal|RawFileName=SheetMCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SheetMain.SchDoc|Designator=U_SheetPower|SchDesignator=U_SheetPower|FileName=SheetPower.SchDoc|SymbolType=Normal|RawFileName=SheetPower.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

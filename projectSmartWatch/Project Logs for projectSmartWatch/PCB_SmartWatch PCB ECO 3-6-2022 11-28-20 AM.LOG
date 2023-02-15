@@ -1,0 +1,12 @@
+Added Component: Designator=HOLE1(Hole 2MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HOLE2(Hole 2MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HOLE3(Hole 2MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HOLE4(Hole 2MM)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=SheetMCU Member=Component HOLE1 Hole
+Added Member To Class: ClassName=SheetMCU Member=Component HOLE2 Hole
+Added Member To Class: ClassName=SheetMCU Member=Component HOLE3 Hole
+Added Member To Class: ClassName=SheetMCU Member=Component HOLE4 Hole

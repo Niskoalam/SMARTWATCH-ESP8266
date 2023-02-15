@@ -1,0 +1,15 @@
+Change Component Description : Designator=R1 Old Description=???? 100O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 100O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R2 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R3 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R4 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R6 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R7 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R8 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R9 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R10 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R11 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Change Component Description : Designator=R12 Old Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805 New Description=???? 1000O ± 1.00% 0.125W ± 100ppm/? 0805
+Added Pin To Net: NetName=GND Pin=C2-1
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(191, 0, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 0, 180) New Net Color=Default
